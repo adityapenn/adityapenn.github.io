@@ -1,8 +1,8 @@
 # Site settings
-title: Aditya S. Pendyala
+title: Aditya Pendyala
 email: apendyal@stevens.edu
 url: https://whitecanvasgypsy.github.io
-description: "Aditya S. Pendyala - A technical writer, author, programmer, and analyst, currently on the rickety journey of job searching and the many perks that come with it; such as the pursuit of an amazing-looking portfolio website, comparable to the website that this text is displayed on."
+description: "Aditya Pendyala - A technical writer, author, programmer, and analyst, currently on the rickety journey of job searching and the many perks that come with it; such as the pursuit of an amazing-looking portfolio website, comparable to the website that this text is displayed on."
 keywords: "programmer, analyst, technical writer, content writer, author, entrepreneur, creative, user documentation, doctohelp, software design, software development, robohelp, fiction, end user guide, software documentation, illustrator, dreamweaver, programming, java, html, css, sql, python, tableau"
 skills: "Technical Writer - Author - Programmer - Analyst"
 meta_author: Pendyala Aditya
@@ -43,6 +43,8 @@ social:
     url: https://www.linkedin.com/in/aditya-pendyala/
   - title: github
     url: http://github.com/whitecanvasgypsy
+  - title: blog
+    url: http://apocalypseofthehumanmind.blogspot.in/2015/07/steam-engines.html
 
 # Postal address (add as many lines as necessary)
 address:
