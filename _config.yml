@@ -47,7 +47,9 @@ social:
     url: https://www.amazon.com/Sorry-Secrets-Aditya-S-Pendyala-ebook/dp/B0193CIJNA/ref=sr_1_6?ie=UTF8&qid=1512146529&sr=8-6&keywords=sorry+secrets
   - title: blogger
     url: http://apocalypseofthehumanmind.blogspot.in/2015/07/steam-engines.html
-
+  - title: Goodreads
+    url: https://www.goodreads.com/author/show/6454369.Aditya_S_Pendyala
+    
 # Postal address (add as many lines as necessary)
 address:
   - line: Hoboken
