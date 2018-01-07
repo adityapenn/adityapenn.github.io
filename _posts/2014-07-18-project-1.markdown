@@ -7,6 +7,6 @@ alt: image-alt
 project-date: August 2017 - December 2017
 Course: Multivariate Data Analysis
 category: Projects
-description: http://bit.ly/2Fe8cq3 /n I used Multivariate Data Analysis techniques.
+description: http://bit.ly/2Fe8cq3 I used Multivariate Data Analysis techniques.
 
 ---
