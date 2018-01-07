@@ -7,6 +7,6 @@ alt: image-alt
 project-date: August 2017 - December 2017
 Course: Multivariate Data Analysis
 category: Projects
-description: I used the Multivariate Data Analysis techniques of Dimensionality Reduction, Predictive Analysis, and Classification, to extract data from a large organizational HR dataset regarding employees and resignation to understand the reasons behind earlier to predict the resignation of current employees by learning of the causes of their dissatisfaction with the organization.
+description: I used the Multivariate Data Analysis techniques of Dimensionality Reduction, Predictive Analysis, and Classification, to extract data from a large organizational HR dataset regarding employees and resignation to understand the reasons behind earlier to predict the resignation of current employees by learning of the causes of their dissatisfaction with the organization. The report is available <a href = "http://bit.ly/2Fe8cq3"> here. </a>
 
 ---
