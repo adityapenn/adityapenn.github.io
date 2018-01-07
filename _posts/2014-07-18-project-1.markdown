@@ -7,6 +7,6 @@ alt: image-alt
 project-date: August 2017 - December 2017
 Course: Multivariate Data Analysis
 category: Projects
-description: I used Multivariate Data Analysis Techniques to create a predictive data analysis that extracts information from an organizational dataset regarding its employees, to understand the reasons behind resignation of earlier employees, and to predict likeliness of current employees resigning for similar reasons. Below is a detailed report that explains the nitty-gritties of the project, which used R and Python to perform Principal Components Analysis for Dimensionality Reduction, Logistic Regression for Predictive Analysis, and Clustering Analysis for Classification: http://bit.ly/2Fe8cq3
+description: 
 
 ---
