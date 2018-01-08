@@ -4,9 +4,9 @@ modal-id: 5
 date: 2014-07-14
 img: safe.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: January 2017 - May 2017
+client: Stevens Institute of Technology
+category: Academic Projects
+description: I performed a Business Process Reengineering project, along with my team, to analyze the current work- and taskflow of a leading Indian e-commerce company's hiring process, and to perfect it by minimizing time and maximizing efficiency. The tools I used included Relationship Mapping, Work Breakdown Structure, Process Mapping, Signavio, Control Mechanisms, and Hammer Principles. The project is displayed <a href = https://tinyurl.com/y783wyaa> here. </a>
 
 ---
