@@ -7,6 +7,6 @@ alt: image-alt
 project-date: February 2013 - April 2016
 client: Keep Calm and Riddle
 category: Entrepreneurship
-description: I founded a contest organization called 'Keep Calm and Riddle', where hundreds of students in over twenty educational institutions in my native city, Hyderabad,  participated to answer riddles from a 500+ bank of riddles that I developed. I recruited 83 volunteers that helped me conduct the contest. The organization had a profitable run for 3 years, before I decided to concentrate on my Master's instead. The organization also received attention from the largest newspaper of my city, <a href = https://drive.google.com/file/d/0B6gjRdmax1uISVI1a056WDR5Vmc/view?usp=sharing> Deccan Chronicle </a>.
+description: I founded a contest organization called 'Keep Calm and Riddle', where hundreds of students in over twenty educational institutions in my native city, Hyderabad,  participated to answer riddles from a 500+ bank of riddles that I developed. I recruited 83 volunteers that helped me conduct the contest. The organization had a profitable run for 3 years, before I decided to concentrate on my Master's instead. The organization also received attention from the most distributed daily of my city, <a href = https://drive.google.com/file/d/0B6gjRdmax1uISVI1a056WDR5Vmc/view?usp=sharing> Deccan Chronicle </a>.
 
 ---
