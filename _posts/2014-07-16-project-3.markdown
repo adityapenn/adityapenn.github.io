@@ -6,6 +6,6 @@ img: 3.jpg
 alt: image-alt
 project-date: April 2014
 client: Stevens Institute of Technology
-category: Web Development
+category: Academic Projects
 description: I worked on a project that elaborately depicted the Data Warehousing and Business Intelligence Systems of Amazon, with the concepts of Online Analytical Processing (OLAP), Star Schemas, Fact Tables, data marts, and depictive data visualizations on Amazon's workforce and DW & BI usage. The presentation encapsulating the project is available <a href= http://bit.ly/2AGjgsK> here. </a>
 ---
