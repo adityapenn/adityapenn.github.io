@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: 81.jpg
+alt: image-alt
+project-date: August 2016 - December 2016
+client: Stevens Institute of Technology
+category: Academic Projects
+description: We developed a comprehensive emotive marker analysis of an online forum over a span of five years. Belonging to a MMORPG called EVE Online, the project was aimed at assisting its creators to understand the sentiments and responses to new fixes/updates in the game, so as to improve future performance. The project was created using Tableau and R, and an overview is available to view on <a href = http://bit.ly/2m5asr4> this link. </a>
+
+---
