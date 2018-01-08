@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: 71.jpg
+alt: image-alt
+project-date: August 2016 - December 2016
+client: Stevens Institute of Technology
+category: Academic Projects
+description: I worked with my team to develop a complete system that attempts to simplify the healthcare system and makes it affordable universally. Using existing data about US healthcare, data visualizations, cost estimations, and various structural and behavioral diagramming techniques, the presentation received an A+ and is available <a href = http://bit.ly/2CTtuMk> here. </a>
+
+---
