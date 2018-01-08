@@ -5,6 +5,7 @@ date: 2014-07-17
 img: 2.jpg
 alt: image-alt
 project-date: August 2017 - December 2017
+client: Stevens Institute of Technology
 Course: Project Management
 category: Projects
 description: I worked with my team to document the lifecycle of a 2-year long project, using various project management modules, such as the Gantt chart, Networking Diagrams, Success Measurement, Risk, Quality, and Conflict Management. The document is available <a href = http://bit.ly/2mcI47i> here. </a> 
