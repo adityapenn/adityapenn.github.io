@@ -2,11 +2,11 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: 4.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: January 2017 - May 2017
+client: Stevens Institute of Technology
+category: Academic Projects
+description: This project performed a predictive analysis of stock market prices of Forbes 500 companies over a 5-year span using Recurrent Neural Networks (Keras, TensorFlow, and LSTM layers) and stock market data from Yahoo, Forge, and Quandl. A presentation of the project's scope is <a href=http://bit.ly/2D7l9kY> available here. </a>
 
 ---
