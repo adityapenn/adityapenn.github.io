@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 11
+date: 2014-07-14
+img: 9.jpg
+alt: image-alt
+project-date: May 2015 – August 2015
+client: Infinite Linked Solutions
+category: Work Experience
+description: As a programmer intern for <a href = https://datafox.com/infinite-linked-solutions> Infinite Linked Solutions </a>, I used the languages Java and HTML to develop web content. I compiled and maintained information about the organization's retail telecommunication companies using Excel and MySQL.
+
+---

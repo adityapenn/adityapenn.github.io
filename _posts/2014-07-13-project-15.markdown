@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 11
+date: 2014-07-14
+img: 13.jpg
+alt: image-alt
+project-date: January 2016 – July 2016
+client: Butterfly Edufields
+category: Work Experience
+description: As a content writer for the educational Butterfly Edufields, I wrote around 1000 product descriptions for the organization in a span of three months, and helped optimize many organizational articles for search engines. Many product descriptions are visible on the <a href = http://www.butterflyfields.com/shop/> official website. </a>
+
+---

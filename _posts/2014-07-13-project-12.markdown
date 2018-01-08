@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 11
+date: 2014-07-14
+img: 9.jpg
+alt: image-alt
+project-date: November 2011 – Present
+client: Leadstart Publishers
+category: Sorry Secrets
+description: I wrote a fictional collection of short stories called 'Sorry Secrets', published by the largest distributor in India, <a href = https://www.leadstartcorp.com> Leadstart Publishers. </a> The book received rave reviews and I also garnered media attention by leading <a href = http://bit.ly/2CUWFOj> newspaper dailies </a> in my native city. The book is available online as well as in bookstores, such as <a href = https://www.amazon.com/Sorry-Secrets-Aditya-S-Pendyala-ebook/dp/B0193CIJNA/ref=sr_1_1?ie=UTF8&qid=1515442429&sr=8-1&keywords=sorry+secrets+aditya> Amazon </a> and <a href = https://www.barnesandnoble.com/w/sorry-secrets-aditya-s-pendyala/1122728447?ean=9789381836170> Barnes & Noble. </a>
+
+---

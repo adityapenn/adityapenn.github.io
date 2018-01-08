@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 10
+date: 2014-07-14
+img: 8.jpg
+alt: image-alt
+project-date: February 2016 - July 2016
+client: Chalkstreet
+category: Work Experience
+description: As a technical content writer for the online educational institution 'Chalkstreet', I wrote numerous technical instructional and educational articles regarding the programming languages HTML-5, CSS-3, and Java. My articles are read by the tens of thousands of visitors of the website, <a href = http://www.chalkstreet.com> Chalkstreet.com. </a>
+---
