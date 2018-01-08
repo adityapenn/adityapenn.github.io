@@ -2,11 +2,10 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: 3.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: Stevens Institute of Technology
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+description: I worked on a project that elaborately depicted the Data Warehousing and Business Intelligence Systems of Amazon, with the concepts of Online Analytical Processing (OLAP), Star Schemas, Fact Tables, data marts, and depictive data visualizations on Amazon's workforce and DW & BI usage. The presentation encapsulating the project is available <a href= http://bit.ly/2AGjgsK> here. </a>
 ---
